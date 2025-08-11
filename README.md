@@ -21,7 +21,7 @@ The dashboard delivers insights into crime types, locations, and investigation o
 - **Data Cleaning**: Python, Excel
 
 ## 📷 Dashboard Preview
-![Crime Dashboard](99f3152d-bd96-4480-9d66-fa7ed7923ffa.png)
+![Crime Dashboard](port.png)
 
 ## 📈 Insights from the Dashboard
 - **Violence** and **Anti-social Behaviour** are the most reported crime categories.
